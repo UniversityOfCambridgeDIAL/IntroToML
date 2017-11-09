@@ -11,3 +11,6 @@ The material for the assignment is in the private repository. Please make sure n
 ## Day 2
 1. Introduction to TensorFlow(?)
 2. Basic introduction to NN and Deep Learning
+
+## Assignment
+* In this folder, you will find the data sets and instructions for the assignment.
