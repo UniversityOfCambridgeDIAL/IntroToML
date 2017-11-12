@@ -1,3 +1,70 @@
-# Assignment
+# MET Machine Learning Assignment 
+# Instructions
 
+To pass the MET Machine Learning Course you will be required to write a report describing proposed solution to one of the case studies given below. Each case study lists few suggested problems you can solve, however it is general enough to encourage you to propose your own ideas. 
 
+The assignment is designed to challenge you to think about the data science process rather than to simply apply the methods. Your report will be marked whether it contains the following ingredients:
+
+|Marking criteria|Points|
+|------|------|
+|1. The formulation of a valid, achievable data science problem|x pts|
+|2. Data cleaning and preprocessing|x pts|
+|3. Rationale of choice for the machine learning methods|x pts|
+|4. Building models|x pts|
+|5. Optimising models|x pts|
+|6. Conclusions|x pts|
+
+We prepared some questions that might help you to conform to the report requirements.
+
+1. Can the problem formulated be answered through applying machine learning?
+2. Is it a classification/regression/clustering problem?
+3. Does the dataset contain invalid data entries? 
+4. Is the dataset skewed?
+5. Does the dataset require application of a normalisation method?
+6. Does the dataset contain categorical variables?
+7. Do chosen machine learning methods work well with the type of dataset that is analysed?
+8. Are chosen machine learning methods appropriate for the formulated problem?
+9. Is the dataset divided into train/cross-validation/test subsets?
+10. What metrics are used to evaluate the performance of the model? Are they appropriate for the dataset?
+11. Which models perform well on the dataset, which do not, and why?
+12. When the model optimisation process can be stopped?
+13. Does the model solve the original problem formulated?
+
+You are encouraged to use more than just one machine learning method to explore their potential in solving the problem you have formulated. Bear in mind that the consistency of the data science process you follow is the most important marking criteria. This means that your model might perform poorly, as long as you can explain why and suggest possible improvements. 
+
+** Here should be some tips on formulating the problem **
+
+## 1. Traffic Accidents in Leeds
+
+### Problem specification
+The Leeds City Council is running a programme "Safer Streets in Leeds". They were collecting accident data in 2016 and now they would like to engage a team of data scientists to explore the usefulness of the dataset. You were asked to advise the local authorities on the strategy and how data science could be used in the programme. The City Council already has some ideas in mind:
+
+1. Developing awereness campain that is tailored for people that are most likely to be engaged in the accident, or
+2. Identify roads/junctions in which road design/speed restrictions could be improved, or
+3. Develop an accident casualty predictive model to be able to mobilise police/medical forces more effectively.
+
+However, you are free to propose other solutions.
+
+### The dataset
+
+The dataset provided is *Leeds_RTC_2016.csv*, please download it from the course repository. You can also download the data from: https://data.gov.uk/dataset/road-traffic-accidents
+
+It contains the following features:
+1. Accident reference number
+2. Y-coordinates of the place of the accident
+3. X-coordinates of the place of the accident
+4. Number of vehicles engaged in the accident
+5. The area and year in which the accident happened
+6. Accident date
+7. Time of the accident expressed as a number e.g. 1600 corresponds to 4pm.
+8. The class of the road on which accident happened
+9. Lightning conditions during the accident
+10. Weather conditions during the accident
+11. Casualty class - who was affected by the accident
+12. Casualty severity - the impact of the accident on the person involved.
+13. Age of the casualty
+14. Type of vehicle involved in the accident
+
+## 2. Problem 2
+
+## 3. Problem 3
