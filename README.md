@@ -16,4 +16,7 @@ This material is used for the practical coding session for the 2-day Introductio
 * In this folder, you will find the data sets and instructions for the assignment.
 
 # Authors
-The course material has been collected and written by Pascal Wichmann, …, …, 
+The course material has been collected and written by Pascal Wichmann, Anna Ledwoch and is based on various publicly available data sources.
+
+# Errata
+Please notify the authors about errors or other issues.
