@@ -10,7 +10,7 @@ This material is used for the practical coding session for the 2-day Introductio
 4. Basic algorithms in SciKit Learn
 
 ## Day 2
-1. Introduction to TensorFlow(?)
+1. Introduction to TensorFlow(?) / Keras(?)
 2. Basic introduction to NN and Deep Learning
 
 ## Assignment
