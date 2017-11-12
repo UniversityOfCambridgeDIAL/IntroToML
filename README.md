@@ -4,9 +4,10 @@ This material is used for the practical coding session for the 2-day Introductio
 **The material for the assignment is in the private repository. Please make sure not to include it in this public one.**
 
 ## Day 1
-1. Very (brief) introduction to Python
-2. Introduction to SciKit Learn
-3. Basic algorithms in SciKit Learn
+1. Very brief introduction to Jupyter Notebooks
+2. Very brief introduction to Python (3.x)
+3. Exercise in data loading and cleansing
+4. Basic algorithms in SciKit Learn
 
 ## Day 2
 1. Introduction to TensorFlow(?)
