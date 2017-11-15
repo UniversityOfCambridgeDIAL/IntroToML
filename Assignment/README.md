@@ -1,17 +1,12 @@
-# MET Machine Learning Assignment
+# Instructions for the MET Machine Learning Assignment
 
-## General Instructions
+## What you are expected to submit
 
-### You choose ONE of the problems to work on
+You are required to submit your results in form of an [Azure Notebook](https://notebooks.azure.com/). This is the type of notebook we also work with during our practical coding sessions.
 
-To pass the MET Machine Learning Course, you will be required to write a report describing proposed solution to **only one** of the case studies given below. Each case study lists few suggested problems you can solve, however it is general enough to encourage you to propose your own ideas.
+The notebook shall be in form of a report so that it contains both your code as well as the written reflection.
 
-Your selection of the dataset option has no impact on the achievable marks. We provide some background information on each dataset below.
-
-### What you are expected to submit
-
-The format of the report will be a [Azure Notebook](https://notebooks.azure.com/) (or your own local Jupyter notebook if you prefer). Azure Notebooks are the ones we also use for the coding session.
-In any case, we need a readable PDF version of your notebook. You may also provide a URL to your notebook in addition to the PDF so that we can access the notebook directly.
+In any case, we need a readable PDF version of your notebook. You may also provide a URL to your Azure Notebook in addition to the PDF so that we can access the notebook directly.
 
 Your submission MUST be your own work and must demonstrate your own reflection about the dataset as well as your understanding of what you are doing in each step and why.
 
@@ -65,7 +60,7 @@ The Leeds City Council is running a programme "Safer Streets in Leeds". They wer
 2. Identify roads/junctions in which road design/speed restrictions could be improved, or
 3. Develop an accident casualty predictive model to be able to mobilise police/medical forces more effectively.
 
-However, you are free to propose other solutions.
+However, you are free to propose other data science problems.
 
 ### The dataset
 
@@ -86,56 +81,3 @@ It contains the following features:
 12. Casualty severity - the impact of the accident on the person involved.
 13. Age of the casualty
 14. Type of vehicle involved in the accident
-
-## 2. Steel plates (Problem Option 2)
-
-### Background information
-
-The dataset describes results from the quality control of stainless steel plates.
-A number of measurements have been made for each steel plate and you are also provided with the information if the steel plate was found to have one of the six possible defects.
-
-### Description of the dataset
-
-There are 34 fields. 
-
-The first 27 fields contain measurements of each steel plate. In this case, you are not given more background information about the meaning of each measurement but we can assume they describe the geometric shape and other sensor measurements.
-
-1. X_Minimum
-1. X_Maximum
-1. Y_Minimum
-1. Y_Maximum
-1. Pixels_Areas
-1. X_Perimeter
-1. Y_Perimeter
-1. Sum_of_Luminosity
-1. Minimum_of_Luminosity
-1. Maximum_of_Luminosity
-1. Length_of_Conveyer
-1. TypeOfSteel_A300
-1. TypeOfSteel_A400
-1. Steel_Plate_Thickness
-1. Edges_Index
-1. Empty_Index
-1. Square_Index
-1. Outside_X_Index
-1. Edges_X_Index 
-1. Edges_Y_Index 
-1. Outside_Global_Index 
-1. LogOfAreas 
-1. Log_X_Index 
-1. Log_Y_Index 
-1. Orientation_Index 
-1. Luminosity_Index 
-1. SigmoidOfAreas
-
-The last seven columns contain the fault type for each steel plate. If, for example, a plate has been found to have "bumps", there will be a 1 in the "Bump" column, and 0s in all other columns.
-
-1. Pastry
-1. Z_Scratch
-1. K_Scatch
-1. Stains
-1. Dirtiness
-1. Bumps
-1. Other_Faults
-
-## 3. Problem 3
