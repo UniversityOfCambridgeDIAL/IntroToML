@@ -9,15 +9,15 @@ This material is used for the practical coding session for the 2-day Introductio
 1. Tiny Introduction to data manipulation with Pandas and NumPy
 1. Tiny Introduction to data visualisation
 1. Introduction to ML / SciKit Learn - ML Techniques I
-  * Linear regression
-  * Logistic regression
-  * Decision tree (classification)
+    * Linear regression
+    * Logistic regression
+    * Decision tree (classification)
 
 ## Day 2
 1. Introduction to ML / SciKit Learn - ML Techniques II
-  * K-nearest neighbours (clustering)
-  * K means (clustering)
-  * Support vector machine (regression and classification)
+    * K-nearest neighbours (clustering)
+    * K means (clustering)
+    * Support vector machine (regression and classification)
 1. Introduction to Neural Networks using just NumPy (for didactic purposes only)
 1. Introduction to TensorFlow(?) / Keras(?)
 1. Basic introduction to NN and Deep Learning
