@@ -57,7 +57,7 @@ You are encouraged to use more than just one machine learning method to explore 
 ### Problem specification
 The Leeds City Council is running a programme "Safer Streets in Leeds". They were collecting accident data in 2016 and now they would like to engage a team of data scientists to explore the usefulness of the dataset. You were asked to advise the local authorities on the strategy and how data science could be used in the programme. The City Council already has some ideas in mind:
 
-1. Developing awereness campain that is tailored for people that are most likely to be engaged in the accident, or
+1. Developing awareness campain that is tailored for people that are most likely to be engaged in the accident, or
 2. Identify roads/junctions in which road design/speed restrictions could be improved, or
 3. Develop an accident casualty predictive model to be able to mobilise police/medical forces more effectively.
 
