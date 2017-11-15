@@ -4,14 +4,23 @@ This material is used for the practical coding session for the 2-day Introductio
 **The material for the assignment is in the private repository. Please make sure not to include it in this public one.**
 
 ## Day 1
-1. Very brief introduction to Jupyter Notebooks
-2. Very brief introduction to Python (3.x)
-3. Exercise in data loading and cleansing
-4. Basic algorithms in SciKit Learn
+1. Tiny Introduction to Jupyter Notebooks
+1. Tiny Introduction to Python (3.x)
+1. Tiny Introduction to data manipulation with Pandas and NumPy
+1. Tiny Introduction to data visualisation
+1. Introduction to ML / SciKit Learn - ML Techniques I
+  * Linear regression
+  * Logistic regression
+  * Decision tree (classification)
 
 ## Day 2
+1. Introduction to ML / SciKit Learn - ML Techniques II
+  * K-nearest neighbours (clustering)
+  * K means (clustering)
+  * Support vector machine (regression and classification)
+1. Introduction to Neural Networks using just NumPy (for didactic purposes only)
 1. Introduction to TensorFlow(?) / Keras(?)
-2. Basic introduction to NN and Deep Learning
+1. Basic introduction to NN and Deep Learning
 
 ## Assignment
 * In this folder, you will find the data sets and instructions for the assignment.
