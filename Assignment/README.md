@@ -29,7 +29,7 @@ The assignment is designed to challenge you to think about the data science proc
 |1. A sensibly conducted exploratory data analysis where you demonstrate how you tried to examine the data|x pts|
 |2. The formulation of a valid, achievable data science problem|x pts|
 |3. Data cleaning and preprocessing|x pts|
-|4. Rationale of choice for the machine learning methods|x pts|
+|4. Rationale for the choice of the machine learning methods|x pts|
 |5. Building models|x pts|
 |6. Optimising models|x pts|
 |7. Conclusions|x pts|
