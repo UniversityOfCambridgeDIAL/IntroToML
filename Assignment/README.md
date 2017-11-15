@@ -89,4 +89,43 @@ It contains the following features:
 
 ## 2. Problem 2
 
+### Background information
+
+The original aim of the research was to correctly classify the type of surface defects in stainless steel plates, with six types of possible defects (plus "other"). The Input vector was made up of 27 indicators that approximately [describe] the geometric shape of the defect and its outline. According to the research paper, Semeion was commissioned by the Centro Sviluppo Materiali (Italy) for this task and therefore it is not possible to provide details on the nature of the 27 indicators used as Input vectors or the types of the 6 classes of defects.
+
+### Description of the dataset
+
+There are 34 fields. The first 27 fields describe some kind of steel plate faults seen in images. Unfortunately, there is no other information that I know of to describe these columns.
+1. X_Minimum
+1. X_Maximum
+1. Y_Minimum
+1. Y_Maximum
+1. Pixels_Areas
+1. X_Perimeter
+1. Y_Perimeter
+1. Sum_of_Luminosity
+1. Minimum_of_Luminosity
+1. Maximum_of_Luminosity
+1. Length_of_Conveyer
+* TypeOfSteel_A300
+* TypeOfSteel_A400
+* Steel_Plate_Thickness
+* Edges_Index
+* Empty_Index
+* Square_Index
+* Outside_X_Index
+* Edges_X_Index 
+* Edges_Y_Index 
+* Outside_Global_Index 
+* LogOfAreas 
+* Log_X_Index 
+* Log_Y_Index 
+* Orientation_Index 
+* Luminosity_Index 
+* SigmoidOfAreas
+
+The last seven columns are one hot encoded classes, i.e. if the plate fault is classified as "Stains" there will be a 1 in that column and 0's in the other columns. If you are unfamiliar with one hot encoding, just know that the last seven columns are your class labels.
+Pastry Z_Scratch K_Scatch Stains Dirtiness Bumps Other_Faults
+
+
 ## 3. Problem 3
