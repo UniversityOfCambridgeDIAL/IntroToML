@@ -25,9 +25,8 @@ The assignment is designed to challenge you to think about the data science proc
 |2. The formulation of a valid, achievable data science problem|x pts|
 |3. Data cleaning and preprocessing|x pts|
 |4. Rationale for the choice of the machine learning methods|x pts|
-|5. Building models|x pts|
-|6. Optimising models|x pts|
-|7. Conclusions|x pts|
+|5. Building and evaluating your Machine Learning model |x pts|
+|6. Conclusions|x pts|
 
 We prepared some questions that might help you to conform to the report requirements.
 
