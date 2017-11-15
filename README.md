@@ -3,7 +3,7 @@ This material is used for the practical coding session for the 2-day Introductio
 
 **The material for the assignment is in the private repository. Please make sure not to include it in this public one.**
 
-## Day 1
+## Day 1 Excercises
 1. Tiny Introduction to Jupyter Notebooks
 1. Tiny Introduction to Python (3.x)
 1. Tiny Introduction to data manipulation with Pandas and NumPy
@@ -13,7 +13,7 @@ This material is used for the practical coding session for the 2-day Introductio
     * Logistic regression
     * Decision tree (classification)
 
-## Day 2
+## Day 2 Excercises
 1. Introduction to ML / SciKit Learn - ML Techniques II
     * K-nearest neighbours (clustering)
     * K means (clustering)
