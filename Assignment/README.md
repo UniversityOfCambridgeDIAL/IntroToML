@@ -13,6 +13,8 @@ Your selection of the dataset option has no impact on the achievable marks. We p
 The format of the report will be a Jupyter/Azure Notebook. These are the notebooks we also use for the coding session.
 In any case, we need a readable PDF version of your notebook. You may also provide a URL to your notebook in addition to the PDF so that we can access the notebook directly.
 
+Your submission MUST be your own work and must demonstrate your own reflection about the dataset as well as your understanding of what you are doing in each step and why.
+
 ### When and how are you expected to submit
 
 Please send the PDF (and the URL if you wish) to pw351@cam.ac.uk by [date / time].
@@ -49,6 +51,8 @@ We prepared some questions that might help you to conform to the report requirem
 13. Does the model solve the original problem formulated?
 
 You are encouraged to use more than just one machine learning method to explore their potential in solving the problem you have formulated. Bear in mind that the consistency of the data science process you follow is the most important marking criteria. This means that your model might perform poorly, as long as you can explain why and suggest possible improvements.
+
+You are encouraged to also leave included reasonable analyses that you conducted but that did not lead to major findings.
 
 ** Here should be some tips on formulating the problem **
 
