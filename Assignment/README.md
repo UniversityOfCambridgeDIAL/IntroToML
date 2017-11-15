@@ -4,20 +4,20 @@
 
 You are required to submit your results in form of an [Azure Notebook](https://notebooks.azure.com/). This is the type of notebook we also work with during our practical coding sessions.
 
-The notebook shall be in form of a report so that it contains both your code as well as the written reflection.
+The notebook shall be in form of a report so that it contains both your code, results of your code (figures, ...) as well as your written reflections (as you would provide in a normal report).
 
-In any case, we need a readable PDF version of your notebook. You may also provide a URL to your Azure Notebook in addition to the PDF so that we can access the notebook directly.
+Please submit your work in form of a PDF version of your notebook. And please also provide a URL to your Azure Notebook in addition to the PDF so that we can access the notebook directly.
 
-Your submission MUST be your own work and must demonstrate your own reflection about the dataset as well as your understanding of what you are doing in each step and why.
+Your submission MUST be your own work and must demonstrate your own reflections about the dataset as well as your understanding of what you are doing in each step and why. You are allowed and encouraged to use the Machine Learning and other Python libraries we have worked with in the practical coding sessions.
 
 ### When and how are you expected to submit
 
-Please send the PDF (and the URL if you wish) to pw351@cam.ac.uk by [date / time].
+Please send the PDF (and the URL if you wish) to [**add email**] by [**add date / time**].
 Please note that the URL alone is not sufficient; we need the PDF in any case.
 
 ### How you will be assessed
 
-The assignment is designed to challenge you to think about the data science process rather than to simply apply the methods. Your report will be marked whether it contains the following ingredients:
+The assignment is designed to challenge you to think about the data science process rather than to simply apply the methods. Your report will be marked how well you worked through the following steps of the process:
 
 |Marking criteria|Points|
 |------|------|
@@ -28,7 +28,7 @@ The assignment is designed to challenge you to think about the data science proc
 |5. Building and evaluating your Machine Learning model |x pts|
 |6. Conclusions|x pts|
 
-We prepared some questions that might help you to conform to the report requirements.
+We prepared some questions that might help you to conform to the report requirements:
 
 1. Can the problem formulated be answered through applying machine learning?
 2. Is it a unsupervised/supervised and classification/regression/clustering/... problem?
@@ -44,9 +44,9 @@ We prepared some questions that might help you to conform to the report requirem
 12. When the model optimisation process can be stopped?
 13. Does the model solve the original problem formulated?
 
-You are encouraged to use more than just one machine learning method to explore their potential in solving the problem you have formulated. Bear in mind that the consistency of the data science process you follow is the most important marking criteria. This means that your model might perform poorly, as long as you can explain why and suggest possible improvements.
+You are encouraged to use more than just one machine learning method to explore their potential in solving the problem you have formulated. Bear in mind that the consistency of the data science process you follow is the most important marking criteria. This means it is OK if your model does not perform perfectly well, as long as you can explain why and suggest possible improvements. This assignment is _not_ a competition for the highest accuracy.
 
-You are encouraged to also leave included reasonable analyses that you conducted but that did not lead to major findings.
+You are encouraged to also leave included reasonable analyses that you conducted but that did not lead to major findings but show that you checked specific aspects that could have influenced your analysis.
 
 ** Here should be some tips on formulating the problem **
 
