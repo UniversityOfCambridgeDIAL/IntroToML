@@ -1,27 +1,45 @@
-# MET Machine Learning Assignment 
-# Instructions
+# MET Machine Learning Assignment
 
-To pass the MET Machine Learning Course you will be required to write a report describing proposed solution to one of the case studies given below. Each case study lists few suggested problems you can solve, however it is general enough to encourage you to propose your own ideas. 
+## General Instructions
+
+### You choose ONE of the problems to work on
+
+To pass the MET Machine Learning Course, you will be required to write a report describing proposed solution to **one** of the case studies given below. Each case study lists few suggested problems you can solve, however it is general enough to encourage you to propose your own ideas.
+
+Your choice of the problem option has no impact on the achievable marks. We provide some background information on each dataset below.
+
+### What you are expected to submit
+
+The format of the report will be a Jupyter/Azure Notebook. These are the notebooks we also use for the coding session.
+In any case, we need a readable PDF version of your notebook. You may also provide a URL to your notebook in addition to the PDF so that we can access the notebook directly.
+
+### When and how are you expected to submit
+
+Please send the PDF (and the URL if you wish) to pw351@cam.ac.uk by [date / time].
+Please note that the URL alone is not sufficient; we need the PDF in any case.
+
+### How you will be assessed
 
 The assignment is designed to challenge you to think about the data science process rather than to simply apply the methods. Your report will be marked whether it contains the following ingredients:
 
 |Marking criteria|Points|
 |------|------|
-|1. The formulation of a valid, achievable data science problem|x pts|
-|2. Data cleaning and preprocessing|x pts|
-|3. Rationale of choice for the machine learning methods|x pts|
-|4. Building models|x pts|
-|5. Optimising models|x pts|
-|6. Conclusions|x pts|
+|1. A sensibly conducted exploratory data analysis where you demonstrate how you tried to examine the data|x pts|
+|2. The formulation of a valid, achievable data science problem|x pts|
+|3. Data cleaning and preprocessing|x pts|
+|4. Rationale of choice for the machine learning methods|x pts|
+|5. Building models|x pts|
+|6. Optimising models|x pts|
+|7. Conclusions|x pts|
 
 We prepared some questions that might help you to conform to the report requirements.
 
 1. Can the problem formulated be answered through applying machine learning?
-2. Is it a classification/regression/clustering problem?
-3. Does the dataset contain invalid data entries? 
+2. Is it a unsupervised/supervised and classification/regression/clustering/... problem?
+3. Does the dataset contain invalid data entries?
 4. Is the dataset skewed?
 5. Does the dataset require application of a normalisation method?
-6. Does the dataset contain categorical variables?
+6. What types of variables (e.g. categorical, ...) does the dataset contain?
 7. Do chosen machine learning methods work well with the type of dataset that is analysed?
 8. Are chosen machine learning methods appropriate for the formulated problem?
 9. Is the dataset divided into train/cross-validation/test subsets?
@@ -30,7 +48,7 @@ We prepared some questions that might help you to conform to the report requirem
 12. When the model optimisation process can be stopped?
 13. Does the model solve the original problem formulated?
 
-You are encouraged to use more than just one machine learning method to explore their potential in solving the problem you have formulated. Bear in mind that the consistency of the data science process you follow is the most important marking criteria. This means that your model might perform poorly, as long as you can explain why and suggest possible improvements. 
+You are encouraged to use more than just one machine learning method to explore their potential in solving the problem you have formulated. Bear in mind that the consistency of the data science process you follow is the most important marking criteria. This means that your model might perform poorly, as long as you can explain why and suggest possible improvements.
 
 ** Here should be some tips on formulating the problem **
 
