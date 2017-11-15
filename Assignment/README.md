@@ -10,7 +10,7 @@ Your selection of the dataset option has no impact on the achievable marks. We p
 
 ### What you are expected to submit
 
-The format of the report will be a Jupyter/Azure Notebook. These are the notebooks we also use for the coding session.
+The format of the report will be a [Azure Notebook](https://notebooks.azure.com/) (or your own local Jupyter notebook if you prefer). Azure Notebooks are the ones we also use for the coding session.
 In any case, we need a readable PDF version of your notebook. You may also provide a URL to your notebook in addition to the PDF so that we can access the notebook directly.
 
 Your submission MUST be your own work and must demonstrate your own reflection about the dataset as well as your understanding of what you are doing in each step and why.
