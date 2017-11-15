@@ -56,7 +56,7 @@ You are encouraged to also leave included reasonable analyses that you conducted
 
 ** Here should be some tips on formulating the problem **
 
-## 1. Traffic Accidents in Leeds
+## 1. Traffic Accidents in Leeds (Problem Option 1)
 
 ### Problem specification
 The Leeds City Council is running a programme "Safer Streets in Leeds". They were collecting accident data in 2016 and now they would like to engage a team of data scientists to explore the usefulness of the dataset. You were asked to advise the local authorities on the strategy and how data science could be used in the programme. The City Council already has some ideas in mind:
@@ -87,7 +87,7 @@ It contains the following features:
 13. Age of the casualty
 14. Type of vehicle involved in the accident
 
-## 2. Problem 2
+## 2. Steel plates (Problem Option 2)
 
 ### Background information
 
