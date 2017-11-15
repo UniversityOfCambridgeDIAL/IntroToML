@@ -4,7 +4,7 @@
 
 ### You choose ONE of the problems to work on
 
-To pass the MET Machine Learning Course, you will be required to write a report describing proposed solution to **one** of the case studies given below. Each case study lists few suggested problems you can solve, however it is general enough to encourage you to propose your own ideas.
+To pass the MET Machine Learning Course, you will be required to write a report describing proposed solution to **only one** of the case studies given below. Each case study lists few suggested problems you can solve, however it is general enough to encourage you to propose your own ideas.
 
 Your selection of the dataset option has no impact on the achievable marks. We provide some background information on each dataset below.
 
