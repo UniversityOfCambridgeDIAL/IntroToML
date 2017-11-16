@@ -19,14 +19,14 @@ Please note that the URL alone is not sufficient; we need the PDF in any case.
 
 The assignment is designed to challenge you to think about the data science process rather than to simply apply the methods. Your report will be marked how well you worked through the following steps of the process:
 
-|Marking criteria|Points|
-|------|------|
-|1. A sensibly conducted exploratory data analysis where you demonstrate how you tried to examine the data|x pts|
-|2. The formulation of a valid, achievable data science problem|x pts|
-|3. Data cleaning and preprocessing|x pts|
-|4. Rationale for the choice of the machine learning methods|x pts|
-|5. Building and evaluating your Machine Learning model |x pts|
-|6. Conclusions|x pts|
+|Marking criteria|
+|------|
+|1. A sensibly conducted exploratory data analysis where you demonstrate how you tried to examine the data|
+|2. The formulation of a valid, achievable data science problem|
+|3. Data cleaning and preprocessing|
+|4. Rationale for the choice of the machine learning methods|
+|5. Building and evaluating your Machine Learning model |
+|6. Conclusions|
 
 We prepared some questions that might help you to conform to the report requirements:
 
