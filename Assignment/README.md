@@ -30,7 +30,7 @@ The assignment is designed to challenge you to think about the data science proc
 
 We prepared some questions that might help you to conform to the report requirements:
 
-1. Can the problem formulated be answered through applying machine learning?
+1. Can the problem be answered through applying machine learning?
 2. Is it a unsupervised/supervised and classification/regression/clustering/... problem?
 3. Does the dataset contain invalid data entries?
 4. Is the dataset skewed?
@@ -42,7 +42,7 @@ We prepared some questions that might help you to conform to the report requirem
 10. What metrics are you using to evaluate the performance of the model? Are they appropriate for the dataset?
 11. Which models perform well on the dataset, which do not, and why?
 12. When the model's performance can be considered as sufficient?
-13. Does the model solve the original problem formulated?
+13. Does the model solve the original problem?
 
 You are encouraged to use more than just one machine learning method to explore their potential in solving the problem. Bear in mind that the consistency of the data science process you follow is the most important marking criteria. This means it is OK if your model does not perform perfectly well, as long as you can explain why and suggest possible improvements. This assignment is _not_ a competition for the highest accuracy.
 
@@ -53,13 +53,13 @@ You are encouraged to experiment, explore different options and report interesti
 ### Problem specification (Fictional)
 The Leeds City Council is running a programme "Safer Streets in Leeds". They were collecting accident data in years 2013 - 2016 and now they would like to engage a team of data scientists to explore the usefulness of the dataset. You were asked to advise the local authorities on the strategy and how data science could be used in the programme. The City Council sees the opportunity to improve one of the following problem areas:
 
-1. The City Council feels that future accidents could be prevented by increasing people's situational awareness. The authorities believe that the campain will be effective only when a group of citizens that are most likely to be involved in accidents is targeted. You are asked to advise them whether machine learning could help to devise their campain strategy.
+1. The City Council feels that future accidents could be prevented by increasing people's situational awareness through a campaign. The authorities believe that the campaign will be effective only when a group of citizens that are most likely to be involved in accidents is targeted. You are asked to advise them whether machine learning could help to devise their campaign strategy.
 
-2. There has been a database error which resulted in removal of the 'Road Surface' feature for some of the entires in the 2017 dataset. The Leeds City Council believes that machine learning can help them to fill-in the gaps caused by the IT failure.
+2. There has been a database error which resulted in removal of the 'Sex of Casualty' feature for some of the entries in the 2017 dataset. The Leeds City Council believes that machine learning can help them to fill-in the gaps caused by the IT failure.
 
 3. When an accident happens the local hospital mobilises medical units as soon as the accident is reported. However, it happened in the past that the ambulance was not equipped with enough resources to treat everyone without having to go back to the hospital, or call for another unit. The City Council feels that machine learning could help the local hospital to estimate how many people were hurt in a crash based on the information reported by the witnesses. *HINT: you might need to merge columns that refer to the same accident to estimate number of casualties per accident*.
 
-The Leeds City Council has limited time to engage your team in the project, therefore they asked you to help them in only ** *ONE* ** of the problem areas. However, you are free to propose them what other data science problems could be addressed through the data.
+The Leeds City Council has limited time to engage your team in the project, therefore they asked you to help them in only <b>ONE</b> of the problem areas.
 
 ### The dataset
 
@@ -67,17 +67,18 @@ The dataset provided is *Leeds_RTC.csv*, it covers data on traffic accidents in 
 
 It contains the following features:
 1. Accident reference number
-2. Y-coordinates of the place of the accident
-3. X-coordinates of the place of the accident
+2. X-coordinates of the place of the accident
+3. Y-coordinates of the place of the accident
 4. Number of vehicles engaged in the accident
 5. Accident date
 6. Time of the accident expressed as a number e.g. 1600 corresponds to 4pm.
 7. The class of the road on which accident happened
-8. Lightning conditions during the accident
-9. Weather conditions during the accident
-10. Casualty class - who was affected by the accident
-11. Casualty severity - the impact of the accident on the person involved.
-12. Age of the casualty
-13. Type of vehicle involved in the accident
+8. The surface of the road during the accident
+9. Lightning conditions during the accident
+10. Weather conditions during the accident
+11. Casualty class - who was affected by the accident
+12. Casualty severity - the impact of the accident on the person involved.
+13. Age of the casualty
+14. Type of the vehicle involved in the accident
 
 Traffic Accident Data, (c) Leeds City Council, 2017, https://datamillnorth.org/dataset/road-traffic-accidents. This information is licensed under the terms of the Open Government Licence.
