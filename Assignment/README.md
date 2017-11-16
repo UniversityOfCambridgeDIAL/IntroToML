@@ -57,7 +57,7 @@ The Leeds City Council is running a programme "Safer Streets in Leeds". They wer
 
 2. There has been a database error which resulted in removal of the 'Sex of Casualty' feature for some of the entries in the 2017 dataset. The Leeds City Council believes that machine learning can help them to fill-in the gaps caused by the IT failure.
 
-3. When an accident happens the local hospital mobilises medical units as soon as the accident is reported. However, it happened in the past that the ambulance was not equipped with enough resources to treat everyone without having to go back to the hospital, or call for another unit. The City Council feels that machine learning could help the local hospital to estimate how many people were hurt in a crash based on the information reported by the witnesses. *HINT: you might need to merge columns that refer to the same accident to estimate number of casualties per accident*.
+3. When an accident happens the local hospital mobilises medical units as soon as the accident is reported. However, it happened in the past that the ambulance was not equipped with enough resources to treat everyone without having to go back to the hospital, or call for another unit. The City Council feels that machine learning could help the local hospital to estimate how many people were hurt in a crash based on the information reported by the witnesses. *HINT: you might need to merge rows that refer to the same accident to estimate number of casualties per accident*.
 
 The Leeds City Council has limited time to engage your team in the project, therefore they asked you to help them in only <b>ONE</b> of the problem areas.
 
