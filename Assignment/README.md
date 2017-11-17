@@ -80,3 +80,6 @@ You are encouraged to use more than just one machine learning method to explore 
 
 ## Dataset
 
+We chose this dataset about trees (instead of one from the manufacturing / engineering domain) so that the required background domain knowledge is not too demanding.
+
+The dataset contains ...
