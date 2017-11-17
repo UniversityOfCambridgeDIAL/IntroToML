@@ -12,19 +12,16 @@ Your task is it to check if and to what extent the other information provided in
 * building and evaluating these Machine Learning models, 
 * your reflections on the difference in performance between the models, and 
 * general conclusions, limitations and ideas for possible improvements. 
+
 [10 marks]
 
-You are required to submit your results in form of an [Azure Notebook](https://notebooks.azure.com/). This is the type of notebook we also work with during our practical coding sessions.
-
-The notebook shall be in form of a report so that it contains both your code, results of your code (e.g. figures) as well as your written reflections (as you would provide in a normal report).
+You are required to submit your results in form of an [Azure Notebook](https://notebooks.azure.com/). This is the type of notebook we also work with during our practical coding sessions. The notebook shall be in form of a report so that it contains both your code, results of your code (e.g. figures) as well as your written reflections (as you would provide in a normal report).
 
 Please submit your work in form of a PDF version of your notebook, but also provide a URL to your Azure Notebook in addition to the PDF so that we can access the notebook directly.
 
 Your submission MUST be your own work and must demonstrate your own reflections about the dataset as well as your understanding of what you are doing in each step and why. You are allowed and encouraged to use the Machine Learning and other Python libraries we have worked with in the practical coding sessions.
 
 The data set and further more detailed instructions can be found on our public repository: https://github.com/UniversityOfCambridgeDIAL/IntroToML/Assignment/.
-
-
 
 ## Further more detailed instructions
 
