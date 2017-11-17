@@ -17,7 +17,7 @@ Your task is it to check if and to what extent the other information provided in
 
 You are required to submit your results in form of an [Azure Notebook](https://notebooks.azure.com/). This is the type of notebook we also work with during our practical coding sessions. The notebook shall be in form of a report so that it contains both your code, results of your code (e.g. figures) as well as your written reflections (as you would provide in a normal report).
 
-Please submit your work in form of a PDF version of your notebook, but also the .ipynb file of the notebook in addition to the PDF so that we can access the notebook directly.
+Please submit your work in form of: (1) a .ipynb notebook file, and (2) a PDF version of your notebook.
 
 Your submission MUST be your own work and must demonstrate your own reflections about the dataset as well as your understanding of what you are doing in each step and why. You are allowed and encouraged to use the Machine Learning and other Python libraries we have worked with in the practical coding sessions.
 
