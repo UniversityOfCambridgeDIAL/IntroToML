@@ -5,7 +5,14 @@
 Belfast City local authorities regularly monitor the trees and collect data about them and their condition. You will find information including the type of tree (street tree or park tree), the species, the shape, the location, and condition.
 Your task is it to check if and to what extent the other information provided in the dataset is sufficient to predict the type of tree ('TYPEOFTREE').
 
-	(i) Build an appropriate prediction model for the type of tree ('TYPEOFTREE') using the data science pipeline that was discussed during the lecture and practical session. This includes an exploratory data analysis, formulating the task as a data science problem, data cleaning and pre-processing, choosing at least two appropriate Machine Learning methods, building and evaluating these Machine Learning models, your reflections on the difference in performance between the models, and general conclusions, limitations and ideas for possible improvements. [10 marks]
+(i) Build an appropriate prediction model for the type of tree ('TYPEOFTREE') using the data science pipeline that was discussed during the lecture and practical session. This includes:
+* an exploratory data analysis, 
+* formulating the task as a data science problem, 
+* data cleaning and pre-processing, choosing at least two appropriate Machine Learning methods, 
+* building and evaluating these Machine Learning models, 
+* your reflections on the difference in performance between the models, and 
+* general conclusions, limitations and ideas for possible improvements. 
+[10 marks]
 
 You are required to submit your results in form of an [Azure Notebook](https://notebooks.azure.com/). This is the type of notebook we also work with during our practical coding sessions.
 
