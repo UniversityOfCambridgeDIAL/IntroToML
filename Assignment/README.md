@@ -1,14 +1,29 @@
 # Instructions for the MET Machine Learning Assignment
 
-## What you are expected to submit
+## Coursework Instructions (this is the 3rd coursework within the INDUSTRIAL OPERATIONS MANAGEMENT module)
+
+Belfast City local authorities regularly monitor the trees and collect data about them and their condition. You will find information including the type of tree (street tree or park tree), the species, the shape, the location, and condition.
+Your task is it to check if and to what extent the other information provided in the dataset is sufficient to predict the type of tree ('TYPEOFTREE').
+
+	(i) Build an appropriate prediction model for the type of tree ('TYPEOFTREE') using the data science pipeline that was discussed during the lecture and practical session. This includes an exploratory data analysis, formulating the task as a data science problem, data cleaning and pre-processing, choosing at least two appropriate Machine Learning methods, building and evaluating these Machine Learning models, your reflections on the difference in performance between the models, and general conclusions, limitations and ideas for possible improvements. [10 marks]
 
 You are required to submit your results in form of an [Azure Notebook](https://notebooks.azure.com/). This is the type of notebook we also work with during our practical coding sessions.
 
-The notebook shall be in form of a report so that it contains both your code, results of your code (figures, ...) as well as your written reflections (as you would provide in a normal report).
+The notebook shall be in form of a report so that it contains both your code, results of your code (e.g. figures) as well as your written reflections (as you would provide in a normal report).
 
-Please submit your work in form of a PDF version of your notebook, and provide a URL to your Azure Notebook in addition to the PDF so that we can access the notebook directly.
+Please submit your work in form of a PDF version of your notebook, but also provide a URL to your Azure Notebook in addition to the PDF so that we can access the notebook directly.
 
 Your submission MUST be your own work and must demonstrate your own reflections about the dataset as well as your understanding of what you are doing in each step and why. You are allowed and encouraged to use the Machine Learning and other Python libraries we have worked with in the practical coding sessions.
+
+The data set and further more detailed instructions can be found on our public repository: https://github.com/UniversityOfCambridgeDIAL/IntroToML/Assignment/.
+
+
+
+## Further more detailed instructions
+
+### How to set up Azure account and notebook
+
+### How to print the notebook as PDF
 
 ### When and how are you expected to submit
 
@@ -33,7 +48,7 @@ We prepared some questions that might help you to conform to the report requirem
 1. Can the problem be answered through applying machine learning?
 2. Is it a unsupervised/supervised and classification/regression/clustering/... problem?
 3. Does the dataset contain invalid data entries?
-4. Is the dataset skewed?
+4. Is the dataset skewed or unbalanced?
 5. Does the dataset require application of a normalisation method? If yes, which one?
 6. What types of variables (e.g. categorical, ...) does the dataset contain?
 7. Do chosen machine learning methods work well with the type of dataset that is analysed?
@@ -46,39 +61,5 @@ We prepared some questions that might help you to conform to the report requirem
 
 You are encouraged to use more than just one machine learning method to explore their potential in solving the problem. Bear in mind that the consistency of the data science process you follow is the most important marking criteria. This means it is OK if your model does not perform perfectly well, as long as you can explain why and suggest possible improvements. This assignment is _not_ a competition for the highest accuracy.
 
-You are encouraged to experiment, explore different options and report interesting findings in the assignment even if they are not directly linked to the chosen problem.
+## Dataset
 
-## Traffic Accidents in Leeds
-
-### Problem specification (Fictional)
-The Leeds City Council is running a programme "Safer Streets in Leeds". They were collecting accident data in years 2013 - 2016 and now they would like to engage a team of data scientists to explore the usefulness of the dataset. You were asked to advise the local authorities on the strategy and how data science could be used in the programme. The City Council sees the opportunity to improve one of the following problem areas:
-
-1. The City Council feels that future accidents could be prevented by increasing people's situational awareness through a campaign. The authorities believe that the campaign will be effective only when a group of citizens that are most likely to be involved in accidents is targeted. You are asked to advise them whether machine learning could help to devise their campaign strategy.
-
-2. There has been a database error which resulted in removal of the 'Sex of Casualty' feature for some of the entries in the 2017 dataset. The Leeds City Council believes that machine learning can help them to fill-in the gaps caused by the IT failure.
-
-3. When an accident happens the local hospital mobilises medical units as soon as the accident is reported. However, it happened in the past that the ambulance was not equipped with enough resources to treat everyone without having to go back to the hospital, or call for another unit. The City Council feels that machine learning could help the local hospital to estimate how many people were hurt in a crash based on the information reported by the witnesses. *HINT: you might need to merge rows that refer to the same accident to estimate number of casualties per accident*.
-
-The Leeds City Council has limited time to engage your team in the project, therefore they asked you to help them in only <b>ONE</b> of the problem areas.
-
-### The dataset
-
-The dataset provided is *Leeds_RTC.csv*, it covers data on traffic accidents in the city of Leeds in years 2013 - 2016. Please download it from the course repository.
-
-It contains the following features:
-1. Accident reference number
-2. X-coordinates of the place of the accident
-3. Y-coordinates of the place of the accident
-4. Number of vehicles engaged in the accident
-5. Accident date
-6. Time of the accident expressed as a number e.g. 1600 corresponds to 4pm.
-7. The class of the road on which accident happened
-8. The surface of the road during the accident
-9. Lightning conditions during the accident
-10. Weather conditions during the accident
-11. Casualty class - who was affected by the accident
-12. Casualty severity - the impact of the accident on the person involved.
-13. Age of the casualty
-14. Type of the vehicle involved in the accident
-
-Traffic Accident Data, (c) Leeds City Council, 2017, https://datamillnorth.org/dataset/road-traffic-accidents. This information is licensed under the terms of the Open Government Licence.
