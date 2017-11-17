@@ -17,7 +17,7 @@ Your task is it to check if and to what extent the other information provided in
 
 You are required to submit your results in form of an [Azure Notebook](https://notebooks.azure.com/). This is the type of notebook we also work with during our practical coding sessions. The notebook shall be in form of a report so that it contains both your code, results of your code (e.g. figures) as well as your written reflections (as you would provide in a normal report).
 
-Please submit your work in form of a PDF version of your notebook, but also provide a URL to your Azure Notebook in addition to the PDF so that we can access the notebook directly.
+Please submit your work in form of a PDF version of your notebook, but also the .ipynb file of the notebook in addition to the PDF so that we can access the notebook directly.
 
 Your submission MUST be your own work and must demonstrate your own reflections about the dataset as well as your understanding of what you are doing in each step and why. You are allowed and encouraged to use the Machine Learning and other Python libraries we have worked with in the practical coding sessions.
 
@@ -27,12 +27,25 @@ The data set and further more detailed instructions can be found on our public r
 
 ### How to set up Azure account and notebook
 
+* Please go to: https://notebooks.azure.com
+* Please register with Azure or sign in with an existing account
+* Click on new library and enter the required information. Please make sure you set the notebook to private by **unticking the "public library" checkbox** before you start your assignment.
+* Download the dataset from https://github.com/UniversityOfCambridgeDIAL/IntroToML/Assignment/ to your local machine
+* Then upload the dataset to your Azure notebook by clicking "New > Add Files to Library > From Computer".
+* Now you can begin your assignment.
+
 ### How to print the notebook as PDF
+
+* To print your notebook, please go to "File > Download As... > PDF via Latex" in the Jupyter notebook menu
+* Should this fail for whatever reason, you can also print the notebook using the print options of your browser.
+
+### How to download your notebook in an .ipynb format
+
+* To download your notebook in an .ipynb format, please go to "File > Download As... > Notebook (.ipynb)" in the Jupyter notebook menu
 
 ### When and how are you expected to submit
 
-Please send the PDF and the URL to [**add email**] by [**add date / time**].
-Please note that the URL alone is not sufficient; we need the PDF in any case.
+Please send the PDF _and_ the .ipynb file to [**add email**] by [**add date / time**].
 
 ### How you will be assessed
 
