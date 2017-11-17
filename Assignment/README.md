@@ -80,6 +80,21 @@ You are encouraged to use more than just one machine learning method to explore 
 
 ## Dataset
 
-We chose this dataset about trees (instead of one from the manufacturing / engineering domain) so that the required background domain knowledge is not too demanding.
+You will find the file "odTrees.txt" in the "Assignment" folder. It gathers information about threes located in the Belfast City area and includes the following information:
 
-The dataset contains ...
+1. "TYPEOFTREE", which defines whether the tree is a park or street tree
+2. "SPECIESTYPE", which defines the family of species
+3. "SPECIES", which defines the particular specie of the tree
+4. "AGE", which defines the age of the tree (Young/Old etc.)
+5. "DESCRIPTION", which defines more granular description of the age of the tree
+6. "TREESURROUND", which defines the surrounding in which the tree grows (e.g. Grass or Bare Ground)
+7. "VIGOUR", which defines the capacity of the tree to survive in unfavourable conditions
+8. "CONDITION", which defines the general health of the tree (e.g. Good/Dying)
+9. "DIAMETERinCENTIMETRES", which defines the diameter of the trunk, in centimeters
+10. "SPREADRADIUSinMETRES", which defines the size of the crown, in meters
+11. "TREELOCATIONX", which defines the location of the tree in local x coordinates
+12. "TREELOCATIONY", which defines the location of the tree in local y coordinates
+13. "LONGITUDE", which defines geographical longitude where positive values indicate E direction and negative values indicate W direction
+14. "LATITUDE", which defines georgaphical latitude where positive values indicate N direction and negative values indicate S direction.
+15. "TREETAG", which defines tree identification number
+16. "TREEHEIGHTinMETRES", which defines the height of the tree in meters.
