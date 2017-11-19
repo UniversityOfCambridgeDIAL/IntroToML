@@ -2,15 +2,17 @@
 
 ## Coursework Instructions (this is the 3rd coursework within the INDUSTRIAL OPERATIONS MANAGEMENT module)
 
-Belfast City local authorities regularly monitor the trees and collect data about them and their condition. The data set and further more detailed instructions can be found in this location: https://github.com/UniversityOfCambridgeDIAL/IntroToML/tree/master/Assignment. You will find information including the type of tree (street tree or park tree), the species, the shape, the location, and condition. Your task is it to check if and to what extent the other information provided in the dataset is sufficient to predict the type of tree ('TYPEOFTREE').
+Belfast City local authorities regularly monitor the trees and collect data about them and their condition. The data set and further more detailed instructions can be found in this location: https://github.com/UniversityOfCambridgeDIAL/IntroToML/tree/master/Assignment. 
+
+You will find information including the type of tree (street tree or park tree), the species, the shape, the location, and condition. Your task is it to check if and to what extent the other information provided in the dataset is sufficient to predict the type of tree ('TYPEOFTREE').
 
 Build an appropriate prediction model for the type of tree ('TYPEOFTREE') using the typical data science pipeline, which is included in course slides. This includes:
-• formulating the task as a data science problem,
-• data preparation (cleaning, feature selection, normalization – where appropriate, and splitting data into training/cross-validation/testing),
-• choosing at least two appropriate Machine Learning methods,
-• building and evaluating these Machine Learning models,
-• your reflections on the difference in performance between the models, and
-• general conclusions, models’ limitations and ideas for possible prediction improvements.
+- formulating the task as a data science problem,
+- data preparation (cleaning, feature selection, normalization – where appropriate, and splitting data into training/cross-validation/testing),
+- choosing at least two appropriate Machine Learning methods,
+- building and evaluating these Machine Learning models,
+- your reflections on the difference in performance between the models, and
+- general conclusions, models’ limitations and ideas for possible prediction improvements.
 
 You are required to submit your results in the form of an Azure Notebook (https://notebooks.azure.com/). This is the type of notebook we also work with during our practical coding sessions. The notebook will be in form of a report so that it contains both your code, results of your code (e.g. figures) as well as your written reflections.
 
