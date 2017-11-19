@@ -77,7 +77,7 @@ You are encouraged to use more than just one machine learning method to explore 
 
 You will find the file "odTrees.txt" in the "Assignment" folder. To download the file:
 
-- Click on the file "odTrees.txt" in the "Assignment folder"
+- Click on the file "odTrees.txt" in the "Assignment" folder,
 - You will see a message "(Sorry about that, but we can’t show files that are this big right now.)". This is because the file is too big to see the preview. However you can still download it by clicking right mouse button on "Download" and choosing "Download Linked File".
 
 It gathers information about threes located in the Belfast City area and includes the following information:
