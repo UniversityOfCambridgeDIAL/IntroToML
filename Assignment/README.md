@@ -40,7 +40,7 @@ Your submission must demonstrate your own reflections about the dataset as well 
 
 ### When and how are you expected to submit
 
-Please send the PDF _and_ the .ipynb file to [**add email**] by [**add date / time**].
+Please send the PDF _and_ the .ipynb file to the email address provided in your coursework instructions.
 
 ### How you will be assessed
 
