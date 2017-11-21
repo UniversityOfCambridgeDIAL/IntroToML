@@ -21,7 +21,7 @@ This material is used for the practical coding session for the 2-day Introductio
     * Support vector machine (regression and classification)
 1. Introduction to Neural Networks using just NumPy (for didactic purposes only)
 1. Introduction to TensorFlow(?) / Keras(?)
-1. Basic introduction to NN and Deep Learning
+1. Application of Deep Learning to classification
 
 ## Assignment
 * In this folder, you will find the data sets and instructions for the assignment.
