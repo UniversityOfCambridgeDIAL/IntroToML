@@ -1,7 +1,7 @@
 # MET lecture Introduction to Machine Learning
 This material is used for the practical coding session for the 2-day Introduction to Machine Learning.
 
-**The material for the assignment is in the private repository. Please make sure not to include it in this public one.**
+**Internal comment: The assignment solution is in the private repository. Please make sure not to include any of the solution it in this public repository.**
 
 ## Day 1 Excercises
 1. Tiny Introduction to Jupyter Notebooks
