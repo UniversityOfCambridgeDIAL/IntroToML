@@ -15,6 +15,7 @@ This material is used for the practical coding session for the 2-day Introductio
 
 ## Day 2 Excercises
 1. Introduction to ML / SciKit Learn - ML Techniques II
+    * Naive Bayes
     * K-nearest neighbours (clustering)
     * K means (clustering)
     * Support vector machine (regression and classification)
