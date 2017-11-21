@@ -25,7 +25,7 @@ Your submission must demonstrate your own reflections about the dataset as well 
 * Please go to: https://notebooks.azure.com
 * Please register with Azure or sign in with an existing account
 * Click on new library and enter the required information. Please make sure you set the notebook to private by **unticking the "public library" checkbox** before you start your assignment.
-* Download the dataset from https://github.com/UniversityOfCambridgeDIAL/IntroToML/Assignment/ to your local machine
+* Download the dataset from https://github.com/UniversityOfCambridgeDIAL/IntroToML/tree/master/Assignment to your local machine
 * Then upload the dataset to your Azure notebook by clicking "New > Add Files to Library > From Computer".
 * Now you can begin your assignment.
 
@@ -40,8 +40,9 @@ Your submission must demonstrate your own reflections about the dataset as well 
 
 ### When and how are you expected to submit
 
-Please see your overall module coursework instructions for this information.
-Please send the PDF _and_ the .ipynb file to the email address provided in these instructions.
+* Please see your overall module coursework instructions for this information.
+* Due Date: 1 Dec 2017 at 16:00
+* Please send the PDF _and_ the .ipynb file to the email address provided in your coursework instructions.
 
 ### How you will be assessed
 
