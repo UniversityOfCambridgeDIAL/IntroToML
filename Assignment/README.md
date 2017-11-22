@@ -30,6 +30,8 @@ Your submission must demonstrate your own reflections about the dataset as well 
 * To create a new notebook click on "New > New", enter a name for your notebook and choose a Python 3.6 notebook as your filetype
 * Now you can begin your assignment.
 
+<img src="new_notebook.png" alt="Python 3.6 for new notebook" style="width: 200px;"/>
+
 ![Python 3.6 for new notebook](new_notebook.png?raw=true "Python 3.6 for new notebook" =250x)
 
 ### How to print the notebook as PDF
