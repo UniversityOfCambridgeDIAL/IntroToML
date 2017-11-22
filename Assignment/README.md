@@ -27,7 +27,10 @@ Your submission must demonstrate your own reflections about the dataset as well 
 * Click on new library and enter the required information. Please make sure you set the notebook to private by **unticking the "public library" checkbox** before you start your assignment.
 * Download the dataset from https://github.com/UniversityOfCambridgeDIAL/IntroToML/tree/master/Assignment to your local machine
 * Then upload the dataset to your Azure notebook by clicking "New > Add Files to Library > From Computer".
+* To create a new notebook click on "New > New", enter a name for your notebook and choose a Python 3.6 notebook as your filetype
 * Now you can begin your assignment.
+
+<img src="new_notebook.jpg" alt="new notebook" style="width: 300px;"/>
 
 ### How to print the notebook as PDF
 
