@@ -3,6 +3,14 @@ This material is used for the practical coding session for the 2-day Introductio
 
 **Internal comment: The assignment solution is in the private repository. Please make sure not to include any of the solution it in this public repository.**
 
+To work with these notebooks...
+
+* ...sign in / register with https://notebooks.azure.com
+* go to "Libraries > New library"
+* Select "From Github" and enter this path "UniversityOfCambridgeDIAL/IntroToML" after github.com
+* Give your library a name and an ID and then...
+* press "Import"
+
 ## Day 1 Excercises
 1. Tiny Introduction to Jupyter Notebooks
 1. Tiny Introduction to Python (3.x)
